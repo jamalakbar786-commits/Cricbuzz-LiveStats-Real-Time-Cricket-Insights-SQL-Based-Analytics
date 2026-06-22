@@ -1,0 +1,2 @@
+# Cricbuzz-LiveStats-Real-Time-Cricket-Insights-SQL-Based-Analytics
+Cricbuzz LiveStats Dashboard is a Streamlit-Based Cricket Analytics Application that Combines Real-Time Cricket Information from Cricbuzz RapidAPI with Advanced SQL Analytics and Database Management Features. The Application Allows Users to: View Live Cricket Matches, View Player Batting and Bowling Statistics, Execute SQL Queries, Perform CRUD
